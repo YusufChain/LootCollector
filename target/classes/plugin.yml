@@ -1,0 +1,16 @@
+name: LootCollector
+version: 1.0.0
+author: YusufChain
+main: com.yusufchain.lootcollector.LootCollector
+api-version: 1.16
+description: Stores mob/block drops into a personal GUI vault when inventory is full.
+
+commands:
+  lootcollector:
+    aliases: [lootc, collector]
+    description: Open your LootCollector vault.
+    usage: /lootcollector
+
+permissions:
+  lootcollector.use:
+    default: true

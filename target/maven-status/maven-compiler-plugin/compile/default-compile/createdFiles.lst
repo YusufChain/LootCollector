@@ -1,0 +1,7 @@
+com\yusufchain\lootcollector\Feedback.class
+com\yusufchain\lootcollector\LootHolder.class
+com\yusufchain\lootcollector\LootCommand.class
+com\yusufchain\lootcollector\LootGui.class
+com\yusufchain\lootcollector\LootListener.class
+com\yusufchain\lootcollector\LootCollector.class
+com\yusufchain\lootcollector\LootStorage.class

@@ -1,0 +1,27 @@
+settings:
+  require-full-inventory: true
+  gui:
+    size: 54
+    title: "&bLoot Collector &7| Stored Items"
+
+messages:
+  prefix: "&bLootCollector &8» &f"
+  opened: "&aLoot Collector opened."
+  inventory-full: "&eYour inventory is full. Loot sent to collector."
+  no-permission: "&cYou don't have permission."
+
+feedback:
+  title:
+    enabled: true
+    text:
+      title: "&aLoot Collected"
+      subtitle: "&7Open /lootcollector to claim"
+    fade-in: 10
+    stay: 30
+    fade-out: 10
+
+  sound:
+    enabled: true
+    name: "ENTITY_ITEM_PICKUP"
+    volume: 1.0
+    pitch: 1.0
