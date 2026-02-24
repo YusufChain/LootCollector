@@ -6,4 +6,4 @@
 For bugs, general solutions, and any questions, my Discord username is: yusufchainn
 Take care and enjoy using the plugin.
 
-My developer team Discord and the Discord where my teammates are: https://nextsetup.com
+My developer team Discord and the Discord where my teammates are: https://luaproject.com.tr
